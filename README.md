@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frankwyw7&show_icons=true&theme=radical)
+
 <!--
 **frankwyw7/frankwyw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
