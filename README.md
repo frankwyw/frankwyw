@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frankwyw&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frankwyw7&show_icons=true&theme=radical)
 
 <!--
-**frankwyw/frankwyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**frankwyw7/frankwyw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
